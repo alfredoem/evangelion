@@ -1,15 +1,13 @@
 
 Uno: Administrador de paquetes*
 =====================
- Composer (PHP)
-
+ [Composer](https://getcomposer.org/doc/04-schema.md#properties) (PHP)
 
     composer require slim/slim
     composer require symfony/translation
     composer require illuminate/database
 
- **NPM (NodeJS)**
-
+ **[NPM](https://docs.npmjs.com/files/package.json) (NodeJS)**
 
 	npm install express
     npm install jquery
@@ -17,16 +15,14 @@ Uno: Administrador de paquetes*
 
 Ruby Gems (Ruby)
 
-
     gem install orm_adapter
 
 Pip (Python)
 
-
     pip install py-translate
 
 
-Dos: NodeJS (Javascript)
+Dos: NodeJS
 ===================
 
 [Algunos Administradores de paquetes](http://www.slant.co/topics/1488/compare/~npm-browserify_vs_bower_vs_jspm)
@@ -34,7 +30,7 @@ Dos: NodeJS (Javascript)
     - Bower
     - JSPM
 
-Tres: Automatizadores de tareas*
+Tres: Automatizadores de tareas* ... [why?](https://developers.google.com/web/fundamentals/performance/?hl=en)
 ========================
     - Gulp
     - Grunt
