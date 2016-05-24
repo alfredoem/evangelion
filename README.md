@@ -1,5 +1,5 @@
 
-Uno: Manejador de paquetes*
+Uno: Administrador de paquetes*
 =====================
  Composer (PHP)
 
@@ -29,20 +29,15 @@ Pip (Python)
 Dos: NodeJS (Javascript)
 ===================
 
-Algunos Manejadores de paquetes
-
-
+[Algunos Administradores de paquetes](http://www.slant.co/topics/1488/compare/~npm-browserify_vs_bower_vs_jspm)
     - NPM
     - Bower
     - JSPM
 
 Tres: Automatizadores de tareas*
 ========================
-
-
-
-     - Gulp
-     - Grunt
+    - Gulp
+    - Grunt
 
 
 
