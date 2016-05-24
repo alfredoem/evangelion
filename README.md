@@ -1,33 +1,52 @@
 
-Manejador de paquetes (frameworks, librerias, etc.)
-=====
- - Composer (PHP)
+Uno: Manejador de paquetes*
+=====================
+ Composer (PHP)
 
- 
-    - `composer require slim/slim`
-    - `composer require symfony/translation`
-    - `composer require illuminate/database`
 
- - **NPM (NodeJS)**
-	- `npm install express`
-    - `npm install jquery`
-    - `npm install node-mysql`
+    composer require slim/slim
+    composer require symfony/translation
+    composer require illuminate/database
 
- - Ruby Gems (Ruby)
-    - `gem install orm_adapter`
+ **NPM (NodeJS)**
 
- - Pip (Python)
-    - `pip install py-translate`
 
-******
+	npm install express
+    npm install jquery
+    npm install node-mysql
 
-##**NodeJS (Javascript)**
+Ruby Gems (Ruby)
 
-####Algunos Manejadores de paquetes
- - **NPM**
- - Bower
- - JSPM
 
-####Automatizador de tareas (minificar, optimizar, generar, etc.)
- - **Gulp**
- - Grunt
+    gem install orm_adapter
+
+Pip (Python)
+
+
+    pip install py-translate
+
+
+Dos: NodeJS (Javascript)
+===================
+
+Algunos Manejadores de paquetes
+
+
+    - NPM
+    - Bower
+    - JSPM
+
+Tres: Automatizadores de tareas*
+========================
+
+
+
+     - Gulp
+     - Grunt
+
+
+
+***
+ * *Paquetes: `frameworks`, `librerias`, etc.*
+ * *Tareas: `minificar codigo`, `optimizar imagenes`
+, `generar documentacion en html`, etc.*
